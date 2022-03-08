@@ -10,7 +10,7 @@
 
 ## Results
 -The result of this project is a fully functioning webpage with a full catalog of extensive UFO sightings data and 5 dynamic filters for easy navigation of said data.
-![homepage](Resources/1.jpg?raw=true "UFO Homepage")
+![Homepage](1.png)
 
 -The dynamics filters filter for:
     -Date
@@ -18,7 +18,7 @@
     -State
     -Country
     -Shape
-![filters](/Resources/2.jpg?raw=true "UFO Filters")
+![Filters](2.png)
 
 -By clicking a "Filter Table" button, users can filter and sift through data to find the UFO sightings reports that they want to see.
 
