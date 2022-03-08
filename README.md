@@ -6,7 +6,7 @@
 -Bootstrap & CSS Stylesheets
 -JavaScript Arrow Functions
 -JavaScript forEach loops
--DYnamically filtered/generated data & tables
+-Dynamically filtered/generated data & tables
 
 ## Results
 -The result of this project is a fully functioning webpage with a full catalog of extensive UFO sightings data and 5 dynamic filters for easy navigation of said data.
@@ -18,7 +18,7 @@
     -State
     -Country
     -Shape
-![filters](Resources/2.jpg?raw=true "UFO Filters")
+![filters](/Resources/2.jpg?raw=true "UFO Filters")
 
 -By clicking a "Filter Table" button, users can filter and sift through data to find the UFO sightings reports that they want to see.
 
